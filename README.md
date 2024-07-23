@@ -39,6 +39,6 @@ Ce projet vise à prédire la consommation énergétique des bâtiments en utili
 - SHAP
 
 ## Auteur
-- **Votre Nom**
+- **Fathi METALSI**
   - [LinkedIn](https://www.linkedin.com/in/fathi-metalsi-328159124/)
   - [Email](mailto:fathimetalsi@gmail.com)
